@@ -1,0 +1,40 @@
+/*
+------------- Table of content ----------------
+
+Template Name: Gobinda Sarkar - Full Stack Web Developer, Let's Built Your Modern Website
+Template URI: http://gobinda.theme-star.com/
+Description: Gobinda Sarkar - Full Stack Web Developer, Let's Built Your Modern Website
+Author: Gobinda sarkar
+Author URI: http://gobinda.theme-star.com/
+Version: 1.0
+
+---------------------- common content ----------
+#.body reset content
+#.header area
+#.footer-area
+#.hero-banner
+#.about-area
+#.section-title
+#.service
+#.counter
+#.Portfolio
+#.contact area
+*/
+// variable
+@import "./scss/variable/_variable.scss";
+
+// mixin
+@import "./scss/mixin/_mixin.scss";
+
+// body reset content
+@import "./scss/reset/_predefine.scss";
+
+@import "./scss/section/header/header";
+@import "./scss/section/footer/footer";
+@import "./scss/section/hero-banner/hero-banner";
+@import "./scss/section/about-area/about-area";
+@import "./scss/section/section-title/section-title";
+@import "./scss/section/service/service";
+@import "./scss/section/counter-area/counter-area";
+@import "./scss/section/portfolio/portfolio";
+@import "./scss/section/contact-area/contect-area";

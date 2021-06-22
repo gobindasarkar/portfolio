@@ -1,0 +1,69 @@
+.contact-form {
+     .form-group {
+          margin-bottom: 2rem;
+          label {
+               font-size: 1.6rem;
+               font-weight: 400;
+               color: #6d6d6d;
+               margin-bottom: 7px;
+               display: block;
+               text-transform: capitalize;
+          }
+          .form-control {
+               text-transform: capitalize;
+               padding-left: 10px;
+               height: 45px;
+               width: 100%;
+               font-size: 1.6rem;
+               font-weight: 400;
+               color: #0d2f5d;
+               border: 1px solid #ddd;
+               padding: 0 1.5rem;
+          }
+          .messages-box {
+               height: 200px;
+               resize: none;
+               padding: 1.5rem;
+          }
+     }
+     .primary-btn {
+          border: none;
+     }
+}
+.cont-info {
+     .cont-info-single {
+          margin-bottom: 3rem;
+          box-shadow: 0 3px 20px 0px rgba(0, 0, 0, .05);
+          border-radius: 1.5rem;
+          padding: 3rem;
+          background: var(--whtie);
+          transition: all 0.5s linear;
+          &:last-child {
+               margin-bottom: 0;
+          }
+          .info-icon {
+               margin-bottom: 1.5rem;
+               font-size: 2rem;
+          }
+          h5 {
+               margin-bottom: 1.5rem;
+               font-size: 2rem;
+               line-height: 30px;
+               font-weight: 600;
+               color: #3c6382;
+          }
+          p {
+               margin-bottom: 0;
+               font-size: 1.6rem;
+               line-height: 30px;
+               font-weight: 400;
+               color: #3c6382;
+          }
+     }
+     
+}
+@media (max-width: 991px) {
+     .cont-info {
+          margin-top: 3rem;
+     }
+}
