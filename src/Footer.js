@@ -18,10 +18,10 @@ const Footer = () => {
                               <div className="col-md-6 text-center text-md-end">
                                    <div className="social-meida-area">
                                         <ul>
-                                             <li><a href="https://www.facebook.com/gobindasarkarbabu"><FaFacebookF /></a></li>
-                                             <li><a href="https://twitter.com/gobinda11079775"><FaTwitter /></a></li>
-                                             <li><a href="https://www.linkedin.com/in/gobinda-sarkar-941219123"><FaLinkedinIn /></a></li>
-                                             <li><a href="https://www.instagram.com/gobindasarkar909/"><FaInstagram /></a></li>
+                                             <li><a target="_blank" href="https://www.facebook.com/gobindasarkar909"><FaFacebookF /></a></li>
+                                             <li><a target="_blank" href="https://twitter.com/gobinda11079775"><FaTwitter /></a></li>
+                                             <li><a target="_blank" href="https://www.linkedin.com/in/gobinda-sarkar-909"><FaLinkedinIn /></a></li>
+                                             <li><a target="_blank" href="https://www.instagram.com/gobindasarkar909/"><FaInstagram /></a></li>
                                         </ul>
                                    </div>
                               </div>

@@ -20,7 +20,7 @@
                li {
                     display: block;
                     list-style: none;
-                    font-size: 14px;
+                    font-size: 1.6rem;
                     color: #979797;
                     margin-bottom: 2rem;
                     &:last-child {
@@ -28,8 +28,6 @@
                     }
                     strong {
                          display: inline-block;
-                         font-size: 14px;
-                         font-weight: 700;
                          min-width: 145px;
                          font-weight: 600;
                          margin: 0;
@@ -165,6 +163,9 @@
      .about-area .about-details ul li strong {
           min-width: 100px;
      }
+     .about-area .about-details ul li {
+          font-size: 1.4rem;
+     }
 }
 @media (max-width: 360px) {
      .about-area .about-details ul li strong {
@@ -174,6 +175,9 @@
           margin-right: 5px;
      }
      .about-area .about-details ul li strong {
-          font-size: 13px;
+          font-size: 1.3rem;
+     }
+     .about-area .about-details ul li {
+          font-size: 1.3rem;
      }
 }

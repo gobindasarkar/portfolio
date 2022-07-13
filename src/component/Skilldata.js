@@ -33,6 +33,9 @@ const Skilldata = [
           skillname : 'mongodb'
      },
      {
+          skillname : 'mysql'
+     },
+     {
           skillname : 'mongoos'
      },
      {
@@ -52,6 +55,9 @@ const Skilldata = [
      },
      {
           skillname : 'xd to html'
+     },
+     {
+          skillname : 'html to react js'
      },
      {
           skillname : 'pdf to html'

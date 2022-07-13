@@ -4,43 +4,43 @@ const Portfoliodata = [
           portfolioimg : 'images/shiro.jpg',
           viewicon : <FaEye />,
           portfolioname : 'shiro',
-          portfoliolink: '#'
+          portfoliolink: 'https://zainiklab.com/html-templates/shiro-update'
      },
      {
           portfolioimg : 'images/zaitors.jpg',
           viewicon : <FaEye />,
           portfolioname : 'zaitors',
-          portfoliolink: '#'
+          portfoliolink: 'https://zainiklab.com/html-templates/zaitors-user'
      },
      {
           portfolioimg : 'images/woomart.jpg',
           viewicon : <FaEye />,
           portfolioname : 'woomart',
-          portfoliolink: '#'
+          portfoliolink: 'https://zainiklab.com/html-templates/woomart/'
      },
      {
           portfolioimg : 'images/smart-home.jpg',
           viewicon : <FaEye />,
           portfolioname : 'smart home',
-          portfoliolink: '#'
+          portfoliolink: 'https://zainiklab.com/html-templates/smart-home-update/'
      },
      {
           portfolioimg : 'images/zaimart.jpg',
           viewicon : <FaEye />,
           portfolioname : 'zaimart',
-          portfoliolink: '#'
+          portfoliolink: 'https://zainiklab.com/html-templates/zaimart'
      },
      {
           portfolioimg : 'images/medico.jpg',
           viewicon : <FaEye />,
           portfolioname : 'medico',
-          portfoliolink: '#'
+          portfoliolink: 'https://zainiklab.com/html-templates/Hospital-Management/'
      },
      {
           portfolioimg : 'images/coral-reef.jpg',
           viewicon : <FaEye />,
           portfolioname : 'coral reef',
-          portfoliolink: '#'
+          portfoliolink: 'https://zainiklab.com/wordpress/'
      },
      {
           portfolioimg : 'images/infinity-bet.jpg',
@@ -52,7 +52,7 @@ const Portfoliodata = [
           portfolioimg : 'images/pencil.jpg',
           viewicon : <FaEye />,
           portfolioname : 'pencil',
-          portfoliolink: '#'
+          portfoliolink: 'https://pencil-cv-resume-html5-template.netlify.app/'
      },
      {
           portfolioimg : 'images/Arti.jpg',
@@ -64,55 +64,55 @@ const Portfoliodata = [
           portfolioimg : 'images/Biolab.jpg',
           viewicon : <FaEye />,
           portfolioname : 'Biolab',
-          portfoliolink: '#'
+          portfoliolink: 'https://www.s7template.com/tf/biolab/'
      },
      {
           portfolioimg : 'images/Cvita.jpg',
           viewicon : <FaEye />,
           portfolioname : 'Cvita',
-          portfoliolink: '#'
+          portfoliolink: 'https://cvitahtml5.netlify.app/'
      },
      {
           portfolioimg : 'images/Dikoon.jpg',
           viewicon : <FaEye />,
           portfolioname : 'Dikoon',
-          portfoliolink: '#'
+          portfoliolink: 'https://www.vecurosoft.com/products/html/dikoon/'
      },
      {
           portfolioimg : 'images/Cvrim.jpg',
           viewicon : <FaEye />,
           portfolioname : 'Cvrim',
-          portfoliolink: '#'
+          portfoliolink: 'https://cvrim.netlify.app/index3.html'
      },
      {
           portfolioimg : 'images/Evelia.jpg',
           viewicon : <FaEye />,
           portfolioname : 'Evelia',
-          portfoliolink: '#'
+          portfoliolink: 'http://uibundle.design/evelia/'
      },
      {
           portfolioimg : 'images/cvtap.jpg',
           viewicon : <FaEye />,
           portfolioname : 'cvtap',
-          portfoliolink: '#'
+          portfoliolink: 'https://cvtabhtml.netlify.app/'
      },
      {
           portfolioimg : 'images/Education.jpg',
           viewicon : <FaEye />,
           portfolioname : 'Education',
-          portfoliolink: '#'
+          portfoliolink: 'https://www.vecurosoft.com/products/html/educare/'
      },
      {
           portfolioimg : 'images/Opencv.jpg',
           viewicon : <FaEye />,
           portfolioname : 'Opencv',
-          portfoliolink: '#'
+          portfoliolink: 'https://opencv.netlify.app/'
      },
      {
           portfolioimg : 'images/Paris.jpg',
           viewicon : <FaEye />,
           portfolioname : 'Paris',
-          portfoliolink: '#'
+          portfoliolink: 'https://xfar.netlify.app/'
      },
      {
           portfolioimg : 'images/ruller.jpg',
@@ -124,7 +124,67 @@ const Portfoliodata = [
           portfolioimg : 'images/Xplor.jpg',
           viewicon : <FaEye />,
           portfolioname : 'Xplor',
-          portfoliolink: '#'
+          portfoliolink: 'https://xplorhtml5.netlify.app/'
+     },
+     {
+          portfolioimg : 'images/newsly.jpg',
+          viewicon : <FaEye />,
+          portfolioname : 'newsly',
+          portfoliolink: 'https://zainiklab.com/html-templates/newsly/'
+     },
+     {
+          portfolioimg : 'images/pragnancy.jpg',
+          viewicon : <FaEye />,
+          portfolioname : 'p.care',
+          portfoliolink: 'https://zainiklab.com/html-templates/pragnancy/'
+     },
+     {
+          portfolioimg : 'images/bitgram.jpg',
+          viewicon : <FaEye />,
+          portfolioname : 'bitgram',
+          portfoliolink: 'https://bitgram.finance/'
+     },
+     {
+          portfolioimg : 'images/career.jpg',
+          viewicon : <FaEye />,
+          portfolioname : 'career',
+          portfoliolink: 'https://careerhtml5.netlify.app/'
+     },
+     {
+          portfolioimg : 'images/esculent.jpg',
+          viewicon : <FaEye />,
+          portfolioname : 'esculent app',
+          portfoliolink: 'https://zainiklab.com/html-templates/esculent/'
+     },
+     {
+          portfolioimg : 'images/zailoon.jpg',
+          viewicon : <FaEye />,
+          portfolioname : 'zailoon app',
+          portfoliolink: 'https://zainiklab.com/html-templates/zailoon/'
+     },
+     {
+          portfolioimg : 'images/doctors_point.jpg',
+          viewicon : <FaEye />,
+          portfolioname : 'doctors_point app',
+          portfoliolink: 'https://zainiklab.com/html-templates/doctors_point/'
+     },
+     {
+          portfolioimg : 'images/Criative.jpg',
+          viewicon : <FaEye />,
+          portfolioname : 'Criative',
+          portfoliolink: 'https://zainiklab.com/html-templates/criative/criative/index.html'
+     },
+     {
+          portfolioimg : 'images/be-creative.jpg',
+          viewicon : <FaEye />,
+          portfolioname : 'be.creative',
+          portfoliolink: 'https://zainiklab.com/html-templates/be-creative/index2.html'
+     },
+     {
+          portfolioimg : 'images/landzai.jpg',
+          viewicon : <FaEye />,
+          portfolioname : 'landzai',
+          portfoliolink: 'https://zainiklab.com/html-templates/landzai/'
      }
 ]
 export default Portfoliodata;

@@ -7,10 +7,10 @@ const Singleportfolio = (props) => {
                          <div className="portfolio-thumbnail">
                               <img src={props.portfolioimg} alt={props.portfolioname} />
                               <div className="portfolio-overlay">
-                                   <a className="view-icon" href={props.portfoliolink} >{props.viewicon}</a>
+                                   <a className="view-icon" target="_blank" href={props.portfoliolink} >{props.viewicon}</a>
                               </div>
                          </div>
-                         <h4 className="portfolio-name"><a href={props.portfoliolink}>{props.portfolioname}</a></h4>
+                         <h4 className="portfolio-name"><a target="_blank" href={props.portfoliolink}>{props.portfolioname}</a></h4>
                     </div>
                </div>
           </>
